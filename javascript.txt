@@ -1,0 +1,1 @@
+This is a simple javascript file with a few if statements to make the lights go on and off.  

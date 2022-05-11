@@ -1,4 +1,7 @@
-Webpages are looking good, but . . .. 
+Webpages are starting to look good, but they could be better.
 
+CSS tries to find ways to make the walls, the floors, the ceiling look good.
 
-New line here.
+CSS gets an update, all new CSS to make your webpage look good.
+
+The CSS pages looks good, but still missing something.  JavaScript
