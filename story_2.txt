@@ -1,8 +1,1 @@
-Then CSS came along and started to paint the walls and the floors.
-
-The Walls were blue and the floors were red.
-
-The ceiling trim was white and the floor trim was black.
-
-
-A new line was added here
+New code that has many errors
